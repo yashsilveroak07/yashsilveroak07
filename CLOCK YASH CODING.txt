@@ -24,4 +24,4 @@ int main () {
 
 
 
-TIS LANU IS C
+THIS LANU IS C
